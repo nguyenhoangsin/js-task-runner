@@ -1,0 +1,8 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "gulp": "^3.9.1",
+    "gulp-file-include": "^1.2.0"
+  }
+}

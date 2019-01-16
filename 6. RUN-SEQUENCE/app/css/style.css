@@ -1,0 +1,23 @@
+header {
+  background: red; }
+  header h1 {
+    padding: 72px 0;
+    font-size: 36px;
+    text-align: center;
+    color: white; }
+
+main {
+  background: green; }
+  main h1 {
+    padding: 72px 0;
+    font-size: 36px;
+    text-align: center;
+    color: white; }
+
+footer {
+  background: blue; }
+  footer h1 {
+    padding: 72px 0;
+    font-size: 36px;
+    text-align: center;
+    color: white; }
